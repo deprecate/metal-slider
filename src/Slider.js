@@ -201,4 +201,5 @@ Slider.STATE = {
 	}
 };
 
+export { Slider };
 export default Slider;
